@@ -1,6 +1,6 @@
 ## Jack Frankwick
 
-![Profile image](https://user-images.githubusercontent.com/101364456/163277194-eb99295d-ad76-4f91-85eb-255da8c1838c.jpg)
+![JackGestalt](https://user-images.githubusercontent.com/101364456/163277335-a5744b1e-ea45-440b-9754-caa24f0fd0bd.jpg)
 
 Columbia College Chicago Student
 Game Art Major
