@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Adventure Game: Dream Detective
+
+![DreamDetectiveTitle](https://user-images.githubusercontent.com/101364456/163274140-c1bc5d6c-3efb-4726-876b-770cbc3d53de.JPG)
 
 You can use the [editor on GitHub](https://github.com/JackFrankwick/JackFrankwick.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
