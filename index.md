@@ -1,39 +1,34 @@
+## Jack Frankwick
+
+![Profile image](https://user-images.githubusercontent.com/101364456/163277194-eb99295d-ad76-4f91-85eb-255da8c1838c.jpg)
+
+Columbia College Chicago Student
+Game Art Major
+
 ## Adventure Game: Dream Detective
 
 ![DreamDetectiveTitle](https://user-images.githubusercontent.com/101364456/163274140-c1bc5d6c-3efb-4726-876b-770cbc3d53de.JPG)
 
 A game that demonstrates object-orientented programming principles inheritance, encapsulation, and polymorphism. 
 
-This game has a ton of branching paths that allow you to experience the game in a new way each time you play. Also there is a secret ending for thoes who can find all of the secret items the game has to offer.
+This game has a ton of branching paths that allow you to experience the game in a new way each time you play. Also there is a secret ending for thoes who can find all of the secret items the game has to offer. 
 
-### Markdown
+![DreamDetectiveScreenShot](https://user-images.githubusercontent.com/101364456/163276254-c8af8e9f-be59-4199-9089-8275d0e486b6.JPG)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I made it so if you pick an option other than the ones given to you the game will ask you to pick an answer that is possible.
 
-```markdown
-Syntax highlighted code block
+## Trivia Game
 
-# Header 1
-## Header 2
-### Header 3
+![triviagame](https://user-images.githubusercontent.com/101364456/163275359-3078b372-b417-4e48-a10f-00e939158e6b.JPG)
 
-- Bulleted
-- List
+A quick and short little trivia game that show cases some simple C# elements like arrays and lists.
 
-1. Numbered
-2. List
+Because we can't trust the user we used the ToLower command to make sure that even if they capitalized their answer they would get it right.
 
-**Bold** and _Italic_ and `Code` text
+## Tip Calculator
 
-[Link](url) and ![Image](src)
-```
+![tipcalculatorcoede](https://user-images.githubusercontent.com/101364456/163276622-07c047dd-8db5-4d73-8528-4ca50ba703d9.JPG)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+This was cerated to showcase C# elements like content arrays
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JackFrankwick/JackFrankwick.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+This program allows you to enter a bill amount along with a decimal percent for the tip persent to figure out how much you owe for a tip. 
