@@ -2,9 +2,9 @@
 
 ![DreamDetectiveTitle](https://user-images.githubusercontent.com/101364456/163274140-c1bc5d6c-3efb-4726-876b-770cbc3d53de.JPG)
 
-You can use the [editor on GitHub](https://github.com/JackFrankwick/JackFrankwick.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+A game that demonstrates object-orientented programming principles inheritance, encapsulation, and polymorphism. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This game has a ton of branching paths that allow you to experience the game in a new way each time you play. Also there is a secret ending for thoes who can find all of the secret items the game has to offer.
 
 ### Markdown
 
